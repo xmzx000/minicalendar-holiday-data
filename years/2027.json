@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "year": 2027,
+  "region": "CN",
+  "version": "2027.1",
+  "updatedOn": "2026-11-05",
+  "source": {
+    "title": "国务院办公厅关于2027年部分节假日安排的通知（国办发明电〔2026〕10号）",
+    "url": "https://www.gov.cn/zhengce/content/202611/content_7085101.htm",
+    "publishedOn": "2026-11-05"
+  },
+  "holidays": [
+    { "name": "元旦", "start": "2027-01-01", "end": "2027-01-03", "makeupWorkdays": [] },
+    { "name": "春节", "start": "2027-02-05", "end": "2027-02-13", "makeupWorkdays": ["2027-01-31", "2027-02-14"] },
+    { "name": "清明节", "start": "2027-04-03", "end": "2027-04-05", "makeupWorkdays": [] },
+    { "name": "劳动节", "start": "2027-05-01", "end": "2027-05-05", "makeupWorkdays": ["2027-05-08"] },
+    { "name": "端午节", "start": "2027-06-09", "end": "2027-06-09", "makeupWorkdays": [] },
+    { "name": "中秋节", "start": "2027-09-15", "end": "2027-09-15", "makeupWorkdays": [] },
+    { "name": "国庆节", "start": "2027-10-01", "end": "2027-10-07", "makeupWorkdays": ["2027-09-26", "2027-10-09"] }
+  ]
+}

@@ -1,1 +1,1 @@
-{"datasets":[{"path":"years/2026.json","sha256":"eea1589c1b8efb4c4984ef81993f951a3f208050fae7732f0241b5f6473b25b9","version":"2026.1","year":2026}],"generatedAt":"2026-09-03","revision":1,"schemaVersion":1}
+{"datasets":[{"path":"years/2026.json","sha256":"eea1589c1b8efb4c4984ef81993f951a3f208050fae7732f0241b5f6473b25b9","version":"2026.1","year":2026},{"path":"years/2027.json","sha256":"a049ed67e7708e453df62375030e8398bc578d2ceb74222e8b1406a2afffbadf","version":"2027.1","year":2027}],"generatedAt":"2026-11-05","revision":2,"schemaVersion":1}
